@@ -1,0 +1,37 @@
+```json
+{
+  "name": "personal-finance-advisor",
+  "version": "1.0.0",
+  "description": "A Node.js-Based Personal Finance Advisor",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/personal-finance-advisor.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Personal Finance",
+    "Machine Learning",
+    "API Integration"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/personal-finance-advisor/issues"
+  },
+  "homepage": "https://github.com/yourusername/personal-finance-advisor#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "mongoose": "^5.12.3",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
+```
